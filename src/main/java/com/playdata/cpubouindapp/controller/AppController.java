@@ -16,7 +16,7 @@ public class AppController {
         for(int i = 0; i < 100_000; i++) {
             input = getMD5Digest(input);
         }
-        int n2 = 1;
+        int n2 = 12;
         return input;
     }
 
