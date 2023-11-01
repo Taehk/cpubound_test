@@ -17,7 +17,7 @@ public class AppController {
             input = getMD5Digest(input);
         }
         int n2 = 123;
-        int price = 12_000_010;
+        int price = 12_000_210;
         return input;
     }
 
